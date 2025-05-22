@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Initial development notes
+=======
+Updates from main branch.
+>>>>>>> feature-login
 More detailed development notes.
